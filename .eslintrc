@@ -27,7 +27,6 @@
     "no-unused-vars": 0,
     "no-underscore-dangle": 0,
     "no-alert": 0,
-    "no-lone-blocks": 0,
-    "jsx-quotes": 1
+    "no-lone-blocks": 0
   }
 }
